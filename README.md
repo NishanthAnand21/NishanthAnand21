@@ -1,15 +1,25 @@
 <p align="center">
   <samp>
-I'm Nishanth Anand. Cyber Security Researcher, Passionate Developer and Open Source Enthusiast from India.
+I'm Nishanth Anand. Cyber Security Researcher, Passionate Developer and Open Source Enthusiast from India.<br>
+Curious Mind Delving into Cyber Security Mysteries!
 </p> 
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABash_Logo_Colored.svg&psig=AOvVaw1e81tGMjSxYWJoIYuhmi0r&ust=1705780575260000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD-kP6d6oMDFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"></code>
+
+**Tools Used in Pentesting:**
+
+<code><img height="20" src="https://www.wireshark.org/assets/icons/wireshark-fin.png"></code>
+<code><img height="20" src="https://miro.medium.com/v2/resize:fit:1358/0*FvyoEolATs1TVCy9.png"></code>
+<code><img height="20" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></code>
+<code><img height="20" src="https://www.hackerone.com/sites/default/files/inline-images/hashcat.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"></code>
+<code><img height="20" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>
 
 
 📊 **This week I spent my time on:**
@@ -23,4 +33,7 @@ SQL          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 
+
+[![Twitter: Nishanth Anand](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/NishanthAnand21)
+[![Linkedin: Nishanth Anand](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nishanth-anand-59ab96217/)
 
