@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
-I'm Nishanth Anand. Cyber Security Researcher, Passionate Developer and Open Source Enthusiast from India.<br>
-Curious Mind Delving into Cyber Security Mysteries!
+I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and ardent Open Source Enthusiast hailing from the vibrant landscape of India. With my insatiable curiosity and unwavering passion for cybersecurity, I love to explore and unravel its mysteries. I am confident in my abilities and bring a wealth of knowledge and expertise to every project I work on.
 </p> 
 
 **Languages and Tools:**  
