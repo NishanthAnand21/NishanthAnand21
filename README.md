@@ -31,8 +31,3 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
-
-
-[![Twitter: Nishanth Anand](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/NishanthAnand21)
-[![Linkedin: Nishanth Anand](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nishanth-anand-59ab96217/)
-
