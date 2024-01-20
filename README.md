@@ -26,8 +26,8 @@ I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and ardent O
 ```txt
 Bash        10 hrs 1 min     ██████████████████████░░░   89.30 %
 Python       6 hr 33 mins    ██████████████████░░░░░░░   73.13 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C            4 hr 43 mins    █████████████░░░░░░░░░░░░   00.29 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
