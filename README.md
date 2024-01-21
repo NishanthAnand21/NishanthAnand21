@@ -31,3 +31,5 @@ Tryhackme    8 hrs 23 mins    ████████████████�
 HackTheBox  11 hrs 52 mins    ███████████████████████░░   93.01 %
 ```
 
+<script src="https://tryhackme.com/badge/1780430"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">
