@@ -21,7 +21,7 @@ I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and ardent O
 <code><img height="20" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>
 
 
-**TryHackMe**                                                                          **HackTheBox**
+**TryHackMe**                                                                              **HackTheBox**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">         <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">
 
