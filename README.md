@@ -23,7 +23,7 @@ I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and ardent O
 
 **TryHackMe & HackTheBox Stats**                                                                             
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">      <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">
+<img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">     <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">
 
 📊 **This week I spent my time on:**
 
