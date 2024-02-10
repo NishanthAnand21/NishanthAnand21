@@ -43,3 +43,4 @@ Tryhackme    8 hrs 23 mins    ████████████████�
 HackTheBox  11 hrs 52 mins    ███████████████████████░░   93.01 %
 ```
 
+<figure><embed src="https://wakatime.com/share/@D3v0X7/ed4440b1-fc1a-4d17-9448-ee5ef9a659b3.svg"></embed></figure>
