@@ -26,12 +26,13 @@ Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and a
 <code><img height="30" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></code>
 <code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/hashcat.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/3048px-Kali-dragon-icon.svg.png"></code>
-<code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>
+<code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>    <span>[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)</span>
+
 
 
 **TryHackMe & HackTheBox Stats**                                                                             
 
-   <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">  <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">     <span>[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)</span>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">  <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">     
 
 📊 **This week I spent my time on:**
 
