@@ -31,7 +31,7 @@ Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and a
 
 **TryHackMe & HackTheBox Stats**                                                                             
 
-   <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">  <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">                     <span>                    [![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)
+   <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">  <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">     <span>[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)</span>
 
 📊 **This week I spent my time on:**
 
