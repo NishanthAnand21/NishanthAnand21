@@ -4,7 +4,12 @@
   <samp>
 Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and ardent Open Source Enthusiast hailing from the vibrant landscape of India. With my insatiable curiosity and unwavering passion for cybersecurity, I love to explore and unravel its mysteries. I am confident in my abilities and bring a wealth of knowledge and expertise to every project I work on.
 </p> 
-<p align="center"><a href="[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)"></a></p>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)
+
+</div>
 
 **Languages and Tools:**  
 
@@ -29,14 +34,11 @@ Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and a
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/3048px-Kali-dragon-icon.svg.png"></code>
 <code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>   
 
-
-
-<div align="right">
+<br>
 
 **TryHackMe & HackTheBox Stats**                                                                             
-   <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe">  <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox">     
+  <img src="https://tryhackme-badges.s3.amazonaws.com/D3v0X7.png" alt="TryHackMe" width="300" height="100"> <img src="https://www.hackthebox.com/badge/image/1435895" alt="HackTheBox" width="300" height="100">   
 
-</div>
 
 📊 **This week I spent my time on:**
 
