@@ -28,6 +28,7 @@ Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and a
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/3048px-Kali-dragon-icon.svg.png"></code>
 <code><img height="30" src="https://www.hackerone.com/sites/default/files/inline-images/john-the-ripper.png"></code>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544)](https://discord.com/users/989808671972286544)
 
 **TryHackMe & HackTheBox Stats**                                                                             
 
