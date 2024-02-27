@@ -9,7 +9,6 @@ Hello, I'm Nishanth Anand, a Cyber Security Researcher, fervent Developer, and a
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/989808671972286544?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%2C%20Don%27t%20bug%20me%2C%20I%27m%20in%20debug%20mode...%21)](https://discord.com/users/989808671972286544)
 
-</div>
 
 **Languages and Tools:**  
 
